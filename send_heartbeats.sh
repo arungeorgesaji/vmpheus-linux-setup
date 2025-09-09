@@ -3,7 +3,7 @@
 USERNAME=""
 
 VM_NAME="$(cat /etc/hostname)"
-API_URL="https://api.vmpheus.eryxks.dev/api/v1/heartbeat"
+API_URL="https://api.vmpheus.eryxks.dev/api/v1/heartbeat/"
 HEARTBEAT_INTERVAL=120
 ACTIVE_TIMEOUT=600
 
